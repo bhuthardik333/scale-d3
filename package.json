@@ -1,0 +1,35 @@
+{
+  "name": "scale_d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuthardik333/scale_d3.git"
+  },
+  "author": "Hardik Bhut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhuthardik333/scale_d3/issues"
+  },
+  "homepage": "https://github.com/bhuthardik333/scale_d3#readme",
+  "dependencies": {
+    "d3-array": "^0.7.1",
+    "d3-collection": "^0.1.2",
+    "d3-color": "^0.4.2",
+    "d3-format": "^0.5.1",
+    "d3-interpolate": "^0.7.0",
+    "d3-scale": "^0.6.4",
+    "d3-time": "^0.2.5",
+    "d3-time-format": "^0.3.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
